@@ -1,4 +1,18 @@
-## Oii eu sou o Jeronimo Marçal, Atualmente Militar trabalhando com Dev Front-end e estudade de programação e tecnologia!
+<h2 align="center"> Oii eu sou o Jeronimo Marçal! 😁 </h2>
+<div align="center">
+
+<hr>
+<div><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </div><br>  
+
+```javascript
+const jeronimomarcal = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, Html, Css],
+  tools: [Bootstrap],
+  challenge: "Learn more about React, Next, and information security"
+}
+```
+
 <div align="center">
   <a href="https://github.com/jeronimomarcal/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeronimomarcal&show_icons=true&theme=trasnparent&include_all_commits=true&count_private=true"/>
