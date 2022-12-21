@@ -1,4 +1,4 @@
-<h2 align="center"> Oii eu sou o Jeronimo Marçal! 😁 </h2>
+<h2 align="center"> Olá eu sou o Jeronimo Marçal! 😁 </h2>
 <div align="center">
 
 <hr>
