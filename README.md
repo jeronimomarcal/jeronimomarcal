@@ -9,7 +9,7 @@ const jeronimomarcal = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, Html, Css],
   tools: [Bootstrap],
-  challenge: "Learn more about React, Next, and information security"
+  challenge: "Learn more about React, Next, Java and information security"
 }
 ```
 
